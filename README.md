@@ -1,9 +1,4 @@
-## Hi there 👋
-
-<!--
-**cccc112/cccc112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+## cccc112 👋
 - Birthday: 2004/01/22
 - Location: New Taipei City
 - 🔭 I’m currently studying on 輔仁大學/
